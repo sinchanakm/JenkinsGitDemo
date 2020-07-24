@@ -11,6 +11,7 @@ namespace JenkinsGitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hi this is my first github program editing");
             Console.ReadLine();
 
         }
